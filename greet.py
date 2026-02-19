@@ -1,2 +1,2 @@
-def greetUser():
-  return "Hello, from branch A"
+def greet():
+    return "Hello from Branch A and Branch B"
